@@ -1,4 +1,4 @@
-1. # Example of food shop
+1. # Example of food shop(without adaptive)
 
 2. ## Technology
 
